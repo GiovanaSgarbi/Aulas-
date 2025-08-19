@@ -1,0 +1,16 @@
+/*Comentario em CSS- Seletor de elementos - linha 2 */
+h1{
+    color: navy;
+}
+/* Seletor de ID*/
+#Aula11{
+background-color: gray;
+}
+/* seletor de classes*/
+.estiloso{
+border-style: solid;
+}
+/*Afeta apenas os p da classe centraliza*/
+p.centralizar{
+    text-align: center;
+}
