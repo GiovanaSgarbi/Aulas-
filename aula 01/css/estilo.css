@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(199, 255, 114);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.central{
+text-align: center;    
+}
+
+.item-menu{
+    display:inline;
+   margin:0.4rem;
+    background-color: rgb(180, 243, 180);
+    padding: 0.7rem;
+    border-right-style: solid ;
+    border-color: gray;
+}
+.item-menu:hover{
+    background-color: azure;
+    color:beige
+} 
+
+.menu{
+    background-color: antiquewhite;
+    padding: 0.7rem;
+}
+
+.td{
+    padding: 0.4rem;
+}
